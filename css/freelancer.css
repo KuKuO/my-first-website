@@ -9365,7 +9365,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #1abc9c !important;
+  color: #bff3e9 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9863,6 +9863,18 @@ form .row:first-child .floating-label-form-group {
 
 .sun-site {
   background: url("../img/太陽系.jpg");
+  background-size: cover;
+  background-position-y: 0px;
+}
+
+.black_hole-site {
+  background: url("../img/黑洞.jpg");
+  background-size: cover;
+  background-position-y: 0px;
+}
+
+.cloud-site {
+  background: url("../img/星雲.jpg");
   background-size: cover;
   background-position-y: 0px;
 }
